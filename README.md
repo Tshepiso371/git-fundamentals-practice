@@ -29,22 +29,77 @@ implementation work.
 ├── README.md # Project onboarding and documentation
 └── CHANGELOG.md # Record of significant changes
 
+## Getting Started (Onboarding)
+
+This repository is primarily focused on documentation and collaboration practices
+rather than a fully implemented application.
+
+### Prerequisites
+- Git installed on your machine
+- A GitHub account
+- Basic understanding of Agile and Git workflows
+
+### Setup
+Clone the repository and navigate into the project directory:
+
+git clone https://github.com/Tshepiso371/git-fundamentals-practice.git
+cd git-fundamentals-practice
+
+## Documentation Artefacts
+
+This project includes several markdown artefacts created during Sprint 1 of the
+Agile simulation. These documents represent the current understanding of the system
+and guide future development.
+
+- **User Stories (`user-stories.md`)**  
+  Describe functional requirements from the perspective of system users.
+
+- **Epics (`epics.md`)**  
+  High-level groupings of related user stories.
+
+- **Priority Matrix (`priority-matrix.md`)**  
+  Used to assess and prioritise work based on value and effort.
+
+- **Sprint Planning (`sprint-1-planning.md`)**  
+  Defines the sprint goal, selected stories, and identified risks.
+
+- **Daily Standups (`sprint-1-dailies.md`)**  
+  Tracks daily progress, blockers, and focus areas.
+
+- **Sprint Checkpoint (`sprint-1-checkpoint.md`)**  
+  Mid-sprint assessment of progress and risk.
+
+- **Sprint Review (`sprint-1-review.md`)**  
+  Captures completed work, incomplete items, and lessons learned.
+
+## Contribution Workflow (Pull Requests)
+
+All changes to this repository are introduced through Pull Requests rather than
+direct commits to the main branch.
+
+The expected workflow is:
+1. Create a new branch from `main`
+2. Make focused, well-documented changes
+3. Open a Pull Request describing:
+   - Why the change is needed
+   - What was changed
+   - What reviewers should focus on
+4. Address feedback through follow-up commits before merging
+
+Pull Requests are used as structured communication and review artefacts, not only
+as a mechanism for merging changes.
+
+## Future Technical Documentation
+
+The following sections will be added as the system evolves:
+
+- Architecture overview
+- API documentation
+- Data models
+- Validation and conflict-resolution logic
+- Deployment and environment setup
 
 
 
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
 
 
-## Contributing 
-Contributions are welcome.Please create a pull request 
-
-## Credits
-Created by Tshepiso Mohlabane 
-contact : ndimatshepiso7@gmail.com
-
-## System context 
-coming soon 
