@@ -21,6 +21,4 @@ Describe what you expected to happen.
 Describe what actually happened.
 
 ## Additional Context
-Add any screenshots, logs, or extra information if available.
-
-
+Add any screenshots, logs, or extra information if available

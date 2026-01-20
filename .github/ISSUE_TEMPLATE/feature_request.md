@@ -1,10 +1,7 @@
----
-name: Feature Request
+name: Feature Request 
 about: Suggest an improvement or new feature
 title: "[Feature] "
-labels: enhancement
-assignees: ""
----
+labels: enhanc
 
 ## Summary
 Briefly describe the proposed feature.
@@ -21,4 +18,4 @@ Describe how you think the feature should work.
 - [ ] No conflict with existing functionality
 
 ## Additional Context
-Add any extra information or references if needed.
+Add any extra information or references if needed
