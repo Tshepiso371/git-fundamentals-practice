@@ -1,8 +1,36 @@
-# :rocket: Git Fundamentals Practice
+# :rocket:Conference Room Booking System
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
+## Project Overview
+The conference Room booking System is designed to help employees book conference rooms efficiently.It ensures that rooms are booked effectively by checking room availability , capacity, availability of necessary equipment and resolving booking conflicts.
+
+The system is intended for employees , administrators , facilities managers and reception staff within an orgarnisation 
+
+## System Context 
+The system provides functionality for reserving conference rooms , applying booking constraints and managing room availability 
+
+The project was developed through agile sprint simulation
+
+## Repository Structure
+
+The repository is organised to separate documentation artefacts from future
+implementation work. 
+
+├── src/ # Application source code (future implementation)
+├── tests/ # Automated tests (future implementation)
+├── docs/ # Additional technical or architectural documentation
+├── Userstories/ # Agile artefacts produced during sprint simulation
+│ ├── user-stories.md
+│ ├── epics.md
+│ ├── priority-matrix.md
+│ ├── sprint-1-planning.md
+│ ├── sprint-1-dailies.md
+│ ├── sprint-1-checkpoint.md
+│ └── sprint-1-review.md
+├── README.md # Project onboarding and documentation
+└── CHANGELOG.md # Record of significant changes
+
+
+
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,14 +38,6 @@
 - [Contributing](#contributing)
 - [Credits](#credits)
 
-## Installation 
-git clone https://github.com/Tshepiso371/git-fundamentals-practice
-
-cd git-fundamentals-practice
-
-## Usage 
--Learning git basics 
--Practicing commits
 
 ## Contributing 
 Contributions are welcome.Please create a pull request 
