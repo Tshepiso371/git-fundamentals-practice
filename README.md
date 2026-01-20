@@ -12,6 +12,7 @@
 
 ## Installation 
 git clone https://github.com/Tshepiso371/git-fundamentals-practice
+
 cd git-fundamentals-practice
 
 ## Usage 
